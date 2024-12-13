@@ -96,17 +96,17 @@ def main():
         col1, col2, col3 = st.columns(3)
 
         with col1:
-            st.image("https://github.com/zanafati/danabutut/blob/main/Dana.jpg")
+            st.image("https://raw.githubusercontent.com/zanafati/danabutut/main/Dana.jpg")
             st.write("Name : Muhammad Arya Danapati Wiraatmaja")
             st.write("Program : Actuarial Science")
 
         with col2:
-            st.image("https://github.com/zanafati/danabutut/blob/main/Carla.jpg")
+            st.image("https://raw.githubusercontent.com/zanafati/danabutut/main/Carla.jpg")
             st.write("Name : Maria Cecilia Carla")
             st.write("Program : Actuarial Science")
 
         with col3:
-            st.image("https://github.com/zanafati/danabutut/blob/main/Novian.jpg")
+            st.image("https://raw.githubusercontent.com/zanafati/danabutut/main/Novian.jpg")
             st.write("Name : Novian Riandana")
             st.write("Program : Actuarial Science")
 
