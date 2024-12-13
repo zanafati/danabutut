@@ -1,0 +1,14 @@
+{
+    "Jawa Barat": {
+        "Bandung": ["Bekasi", "Bogor", "Garut"],
+        "Bekasi": ["Bandung", "Karawang", "Bogor"],
+        "Bogor": ["Bandung", "Bekasi", "Depok"],
+        "Depok": ["Bogor", "Bekasi"],
+        "Sukabumi": ["Bogor", "Bandung"],
+        "Cirebon": ["Garut", "Bandung"],
+        "Garut": ["Bandung", "Cirebon", "Tasikmalaya"],
+        "Tasikmalaya": ["Garut", "Cirebon"],
+        "Karawang": ["Bekasi", "Purwakarta"],
+        "Purwakarta": ["Karawang", "Bekasi"]
+    }
+}
